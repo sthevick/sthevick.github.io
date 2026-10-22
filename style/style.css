@@ -43,12 +43,12 @@ a{
 
 .cabecalho{
     background-color: #123a63;
-    color: #b4c7dc;
+    color: #a0b0c2;
     padding: 30px 0;
 }
 
 .cabecalho h1{
-    color: rgb(200, 222, 250);
+    color: rgb(153, 174, 202);
     font-weight: 1000;
 }
 
@@ -85,7 +85,7 @@ a{
 
     padding: 8px 12px;
 
-    background-color: #f4f7fb;
+    background-color: #d7dee8;
     color: #123a63;
 
     border: 1px solid #000;
