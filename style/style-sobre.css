@@ -25,3 +25,13 @@
     background-color: #f1f5f8;
 }
 
+.secao{
+    margin: 25px 0;
+    padding: 72px 0 ;
+
+    background-color: white;
+
+    border: 1px solid #dbe2ea;
+    border-radius: 8px;
+}
+
